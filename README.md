@@ -1,4 +1,4 @@
-# hackerrank_algorithms_c
+# hackerrank_algorithems_c
 
 ## overview
 
